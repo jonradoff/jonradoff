@@ -1,6 +1,6 @@
 # Jon Radoff · Metavert
 
-**Product & AI Strategy Leader · 4x Founder (IPO, $200M+ Revenue) · Building the Agentic Economy · [metavert.io](https://metavert.io) **
+**Product & AI Strategy Leader · 4x Founder (IPO, $200M+ Revenue) · Building the Agentic Economy · [metavert.io](https://metavert.io)**
 
 > *"The bottleneck isn't engineering anymore. It's imagination."*
 

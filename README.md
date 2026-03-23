@@ -1,6 +1,6 @@
 # Jon Radoff · Metavert
 
-**Product & AI Strategy Leader · 4x Founder (IPO, $200M+ Revenue) · Building the Agentic Economy**
+**Product & AI Strategy Leader · 4x Founder (IPO, $200M+ Revenue) · Building the Agentic Economy · [metavert.io](https://metavert.io) **
 
 > *"The bottleneck isn't engineering anymore. It's imagination."*
 
@@ -91,7 +91,7 @@ A self-hosted project management system designed for the Full-Stack PM workflow:
 
 **Speaking:** MIT Media Lab (MAS.S61), MIT Sloan, GDC, GamesBeat Summit, Gamescom Congress
 
-**Published:** *[Game On](https://www.wiley.com/en-us/Game+On-p-9780470936269)* (Wiley, 2011) — how game mechanics reshape online applications and business
+**Published:** *[Game On]([https://www.wiley.com/en-us/Game+On-p-9780470936269](https://www.amazon.com/Game-Energize-Business-Social-Media/dp/0470936266/ref=sr_1_1?crid=32XBOWH4T2VN5&dib=eyJ2IjoiMSJ9.i_riqQPKF8FqjxJ01lF14GvothbkqP4Cn0rv7PNIqQfmzLgINyRXwM3Fju32--_n.boUS4-maXNbPipseqq9iESj0XAtdDh4BGiJ_6bJieMQ&dib_tag=se&keywords=game+on+radoff&qid=1774302167&sprefix=game+on+radof%2Caps%2C164&sr=8-1))* (Wiley, 2011) — how game mechanics reshape online applications and business
 
 **Education:** A.B., Harvard University (Extension Studies), Psychology; former Teaching Fellow with George Church (Computational Genomics, MIT/Harvard)
 

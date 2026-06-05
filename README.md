@@ -51,6 +51,7 @@ A self-hosted project management system designed for the Full-Stack PM workflow:
 | [**LightCMS**](https://github.com/jonradoff/lightcms) | AI-native CMS powering metavert.io (186 published pages). Versioned, open-source, agent-controlled. | Go + React + MongoDB | ✅ |
 | [**LastSaaS**](https://github.com/jonradoff/lastsaas) | Production-ready SaaS boilerplate: multi-tenant auth, Stripe, webhooks, white-label, admin UI. Built entirely through conversation with Claude Code. MIT licensed. The "Ship Your Strategy" principle applied: prototype → production in days. | Go + React 19 + TypeScript + MongoDB | ✅ |
 | [**Flipbook**](https://github.com/jonradoff/flipbook) | SEO-optimized presentation viewer (PPTX/PDF/Google Slides). Publish directly from agentic workflows. | Go + React | ✅ |
+| [**markupmarkdown**](https://github.com/jonradoff/markupmarkdown) | Google-Docs-style commenting on any markdown file (paste a GitHub URL or upload). Threaded replies, @-mentions, realtime sync, AI revision via Claude. The MCP server lets agents join the same review loop as humans — read, comment, reply, resolve, revise. Live at [mumd.metavert.io](https://mumd.metavert.io). | Go + React 19 + MongoDB | ✅ |
 
 ### 🤖 Agent Systems & Research
 

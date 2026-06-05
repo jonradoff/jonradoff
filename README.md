@@ -27,27 +27,11 @@ When the distance between "I think we should build this" and "here's a working p
 
 ## 🛠 Open-Source (MIT-Licensed) Projects
 
-### 🎛 VibeCtl — Command-and-control orchestration for the agentic coding era
-[`github.com/jonradoff/vibectl`](https://github.com/jonradoff/vibectl)
-
-I hit Level 6 of the agentic adoption hierarchy — running six agent-built projects simultaneously — and traditional tooling collapsed. Jira doesn't understand finite context windows. GitHub Issues doesn't know your "engineering team" is you and three Claude sessions in parallel. So I built the tool that should exist.
-
-A self-hosted project management system designed for the Full-Stack PM workflow: AI agents doing the coding, humans directing strategy.
-
-- `VIBECTL.md` per project — the single source of truth that agents read before every session (open issues by priority, deployment info, recent decisions, architecture summary)
-- **MCP server (20+ tools)** — agents manage issues, sessions, health, and feedback without leaving Claude Code
-- **AI feedback triage** — user reports convert to structured issues via Claude automatically
-- **Health monitoring** — `/healthz` protocol, 24hr uptime timeline, webhook alerts on down/recovery
-- **Multi-user** — GitHub OAuth, role-based permissions per project, API keys
-- **CLI + Web UI** — terminal-native and visual workflows
-- **Fly.io one-command deployment**
-
----
-
 ### 🏗 Infrastructure & Platforms
 
 | Project | What it is | Stack | MCP |
 |---|---|---|---|
+| [**VibeCtl**](https://github.com/jonradoff/vibectl) | Command-and-control orchestration for the agentic coding era. Self-hosted PM for the Full-Stack PM workflow — AI agents do the coding, humans direct strategy. `VIBECTL.md` per project is the single source of truth agents read every session: open issues by priority, deployment info, recent decisions, architecture summary. 20+ MCP tools, AI feedback triage, `/healthz` uptime monitoring, GitHub OAuth, CLI + Web UI, one-command Fly.io deploy. Live at [metavert.io/vibectl](https://metavert.io/vibectl). | TypeScript + React + MongoDB | ✅ |
 | [**LightCMS**](https://github.com/jonradoff/lightcms) | AI-native CMS powering metavert.io (186 published pages). Versioned, open-source, agent-controlled. | Go + React + MongoDB | ✅ |
 | [**LastSaaS**](https://github.com/jonradoff/lastsaas) | Production-ready SaaS boilerplate: multi-tenant auth, Stripe, webhooks, white-label, admin UI. Built entirely through conversation with Claude Code. MIT licensed. The "Ship Your Strategy" principle applied: prototype → production in days. | Go + React 19 + TypeScript + MongoDB | ✅ |
 | [**Flipbook**](https://github.com/jonradoff/flipbook) | SEO-optimized presentation viewer (PPTX/PDF/Google Slides). Publish directly from agentic workflows. | Go + React | ✅ |
@@ -66,14 +50,14 @@ A self-hosted project management system designed for the Full-Stack PM workflow:
 | Project | What it is | MCP |
 |---|---|---|
 | [**Chessmata**](https://github.com/jonradoff/chessmata) | Open-source chess platform for humans and AI agents on a unified Elo leaderboard. Maia2 agents at multiple skill levels, 3D board, MCP + API integration. Built in a weekend — direct-from-imagination in practice. | ✅ |
-| [**Legends of Future Past**](https://github.com/jonradoff/lofp) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on Reddit. Proof that the bottleneck is creative vision, not implementation. | ❌ |
+| [**Legends of Future Past**](https://github.com/jonradoff/lofp) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on Reddit. Proof that the bottleneck is creative vision, not implementation. Live at [lofp.metavert.io](https://lofp.metavert.io). | ❌ |
 
 ### 🎨 Creative Tools
 
 | Project | What it is | MCP |
 |---|---|---|
-| [**ShaderVine**](https://github.com/jonradoff/shadervine) | WebGPU shader programming toolkit. Write WGSL with live preview, GPU compute simulations (Reaction-Diffusion, Game of Life, Fluid, Slime Mold), genetic evolution, shader morphing, and export to Unity, Unreal, Blender, and Three.js. AI is great at generating shader code from natural language but visual iteration is the bottleneck — ShaderVine bridges that with direct manipulation. | ✅ |
-| [**Threelab**](https://github.com/jonradoff/threelab) | Generative 3D art platform built on Three.js. 21 built-in patterns (mathematical curves, physics simulations, GPU shaders, procedural geometry), visual node-graph editor with live code editing, multi-layer compositing, client-side evolution via mutation/crossover, and export to standalone HTML / React components / JSON. | ✅ |
+| [**ShaderVine**](https://github.com/jonradoff/shadervine) | WebGPU shader programming toolkit. Write WGSL with live preview, GPU compute simulations (Reaction-Diffusion, Game of Life, Fluid, Slime Mold), genetic evolution, shader morphing, and export to Unity, Unreal, Blender, and Three.js. AI is great at generating shader code from natural language but visual iteration is the bottleneck — ShaderVine bridges that with direct manipulation. Live at [shadervine.metavert.io](https://shadervine.metavert.io). | ✅ |
+| [**Threelab**](https://github.com/jonradoff/threelab) | Generative 3D art platform built on Three.js. 21 built-in patterns (mathematical curves, physics simulations, GPU shaders, procedural geometry), visual node-graph editor with live code editing, multi-layer compositing, client-side evolution via mutation/crossover, and export to standalone HTML / React components / JSON. Live at [threelab.metavert.io](https://threelab.metavert.io). | ✅ |
 
 ---
 

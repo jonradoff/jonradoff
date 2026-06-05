@@ -41,7 +41,6 @@ When the distance between "I think we should build this" and "here's a working p
 
 | Project | What it is |
 |---|---|
-| [**Agent Almanac**](https://almanac.metavert.io) | Directory of AI agents, MCP servers, and agentic software — autonomously discovered and indexed by Agent(Agent), an AI agent that surfs the web and monitors community conversations. The agentic web discovering itself. |
 | [**LLM Optimizer**](https://metavert.io/llm-optimizer) | Open-source AI visibility intelligence platform. 80% of URLs cited by LLMs don't appear in Google's top 100. LLM citation signals and SEO signals correlate only 12–18%. This tool measures how Claude, ChatGPT, Gemini, and Grok perceive your brand across five dimensions, producing a composite AI Visibility Score. MIT licensed, bring your own API keys. Discoverability is a product architecture decision, not a marketing one. |
 | [**HiddenBench**](https://github.com/jonradoff/hiddenbench) | Benchmark for collective reasoning in multi-agent LLM systems. Based on the "hidden profile" paradigm from social psychology. **Results: Claude Opus 4.5 achieved 89.3% post-discussion accuracy, +76.2% information gain.** |
 

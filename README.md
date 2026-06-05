@@ -31,9 +31,9 @@ When the distance between "I think we should build this" and "here's a working p
 
 | Project | What it is | Stack | MCP |
 |---|---|---|---|
-| [**VibeCtl**](https://github.com/jonradoff/vibectl) | Command-and-control orchestration for the agentic coding era. Self-hosted PM for the Full-Stack PM workflow — AI agents do the coding, humans direct strategy. `VIBECTL.md` per project is the single source of truth agents read every session: open issues by priority, deployment info, recent decisions, architecture summary. 20+ MCP tools, AI feedback triage, `/healthz` uptime monitoring, GitHub OAuth, CLI + Web UI, one-command Fly.io deploy. Live at [metavert.io/vibectl](https://metavert.io/vibectl). | TypeScript + React + MongoDB | ✅ |
-| [**LightCMS**](https://github.com/jonradoff/lightcms) | AI-native CMS powering metavert.io (186 published pages). Versioned, open-source, agent-controlled. | Go + React + MongoDB | ✅ |
-| [**LastSaaS**](https://github.com/jonradoff/lastsaas) | Production-ready SaaS boilerplate: multi-tenant auth, Stripe, webhooks, white-label, admin UI. Built entirely through conversation with Claude Code. MIT licensed. The "Ship Your Strategy" principle applied: prototype → production in days. | Go + React 19 + TypeScript + MongoDB | ✅ |
+| [**LastSaaS**](https://github.com/jonradoff/lastsaas) ![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas?style=social) | Production-ready SaaS boilerplate: multi-tenant auth, Stripe, webhooks, white-label, admin UI. Built entirely through conversation with Claude Code. MIT licensed. The "Ship Your Strategy" principle applied: prototype → production in days. | Go + React 19 + TypeScript + MongoDB | ✅ |
+| [**VibeCtl**](https://github.com/jonradoff/vibectl) | Self-hosted PM for the Full-Stack PM workflow — agents code, humans direct strategy. `VIBECTL.md` per project is the single source of truth agents read every session. 20+ MCP tools, AI feedback triage, uptime monitoring. Live at [metavert.io/vibectl](https://metavert.io/vibectl). | TypeScript + React + MongoDB | ✅ |
+| [**LightCMS**](https://github.com/jonradoff/lightcms) | AI-native CMS powering metavert.io (2,500+ published pages). Versioned, open-source, agent-controlled. | Go + React + MongoDB | ✅ |
 | [**Flipbook**](https://github.com/jonradoff/flipbook) | SEO-optimized presentation viewer (PPTX/PDF/Google Slides). Publish directly from agentic workflows. | Go + React | ✅ |
 | [**markupmarkdown**](https://github.com/jonradoff/markupmarkdown) | Google-Docs-style commenting on any markdown file (paste a GitHub URL or upload). Threaded replies, @-mentions, realtime sync, AI revision via Claude. The MCP server lets agents join the same review loop as humans — read, comment, reply, resolve, revise. Live at [mumd.metavert.io](https://mumd.metavert.io). | Go + React 19 + MongoDB | ✅ |
 
@@ -48,8 +48,8 @@ When the distance between "I think we should build this" and "here's a working p
 
 | Project | What it is | MCP |
 |---|---|---|
+| [**Legends of Future Past**](https://github.com/jonradoff/lofp) ![Stars](https://img.shields.io/github/stars/jonradoff/lofp?style=social) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on Reddit. Proof that the bottleneck is creative vision, not implementation. Live at [lofp.metavert.io](https://lofp.metavert.io). | ❌ |
 | [**Chessmata**](https://github.com/jonradoff/chessmata) | Open-source chess platform for humans and AI agents on a unified Elo leaderboard. Maia2 agents at multiple skill levels, 3D board, MCP + API integration. Built in a weekend — direct-from-imagination in practice. | ✅ |
-| [**Legends of Future Past**](https://github.com/jonradoff/lofp) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on Reddit. Proof that the bottleneck is creative vision, not implementation. Live at [lofp.metavert.io](https://lofp.metavert.io). | ❌ |
 
 ### 🎨 Creative Tools
 

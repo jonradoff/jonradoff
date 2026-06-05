@@ -66,7 +66,7 @@ A self-hosted project management system designed for the Full-Stack PM workflow:
 | Project | What it is | MCP |
 |---|---|---|
 | [**Chessmata**](https://github.com/jonradoff/chessmata) | Open-source chess platform for humans and AI agents on a unified Elo leaderboard. Maia2 agents at multiple skill levels, 3D board, MCP + API integration. Built in a weekend — direct-from-imagination in practice. | ✅ |
-| [**Legends of Future Past**](https://github.com/jonradoff/lofp) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on r/programming. Proof that the bottleneck is creative vision, not implementation. | ❌ |
+| [**Legends of Future Past**](https://github.com/jonradoff/lofp) | The 1992 commercial MUD I worked on as a teenager, fully resurrected from the original script files via agentic AI — every room, monster, spell, and quest line. Went viral with 1M+ views and 4K+ upvotes on Reddit. Proof that the bottleneck is creative vision, not implementation. | ❌ |
 
 ### 🎨 Creative Tools
 
@@ -79,7 +79,7 @@ A self-hosted project management system designed for the Full-Stack PM workflow:
 
 ## 📊 Research & Writing
 
-- **[Resurrecting a 1992 MUD with Agentic AI](https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic)** *(Apr 2026)* — Reconstructing *Legends of Future Past* — the commercial multiplayer text game I worked on as a teenager — from the original script files via agentic AI. **1M+ views, 4K+ upvotes on r/programming.** A live demonstration of the Direct-from-Imagination thesis: the implementation bottleneck collapses; what's left is the creative vision.
+- **[Resurrecting a 1992 MUD with Agentic AI](https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic)** *(Apr 2026)* — Reconstructing *Legends of Future Past* — the commercial multiplayer text game I worked on as a teenager — from the original script files via agentic AI. **1M+ views, 4K+ upvotes on Reddit.** A live demonstration of the Direct-from-Imagination thesis: the implementation bottleneck collapses; what's left is the creative vision.
 - **[Ship Your Strategy](https://meditations.metavert.io/p/ship-your-strategy)** *(Mar 2026)* — The Full-Stack Product Manager: four pillars (Ship, Discover, Compete, Iterate) for the agentic era. Why your strategy deck is a liability. Why LinkedIn replaced its APM program with "Associate Product Builder."
 - **[Software's Creator Era Has Arrived](https://meditations.metavert.io/p/softwares-creator-era-has-arrived)** *(Feb 2026)* — The SaaSpocalypse ($285B market cap loss) through the Pioneer → Engineering → Creator lens. The Copilot Trap. Who wins when LLMs become universal middleware.
 - **[State of AI Agents & Agentic Engineering 2026](https://metavert.io/state-of-ai-agents-2026)** — 205 slides. $211B in AI venture capital. 7-layer market map. How Anthropic, OpenAI, Google, Meta, Microsoft, Amazon, Apple, and NVIDIA are placing fundamentally different bets on the stack.
